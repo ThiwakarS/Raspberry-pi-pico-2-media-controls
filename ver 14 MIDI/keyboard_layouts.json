@@ -1,0 +1,140 @@
+{
+    "DEFAULT": {
+        "buttons": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P"
+        ],
+        "rotary": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+        ]
+    },
+    "NUMPAD": {
+        "buttons": [
+            "KEYPAD_ONE",
+            "KEYPAD_TWO",
+            "KEYPAD_THREE",
+            "KEYPAD_FOUR",
+            "KEYPAD_FIVE",
+            "KEYPAD_SIX",
+            "KEYPAD_SEVEN",
+            "KEYPAD_EIGHT",
+            "KEYPAD_NINE",
+            "KEYPAD_ZERO",
+            "KEYPAD_FORWARD_SLASH",
+            "KEYPAD_ASTERISK",
+            "KEYPAD_MINUS",
+            "KEYPAD_PLUS",
+            "KEYPAD_PERIOD",
+            "KEYPAD_ENTER"
+        ],
+        "rotary": [
+            "LEFT_ARROW",
+            "B",
+            "RIGHT_ARROW",
+            "UP_ARROW",
+            "E",
+            "DOWN_ARROW",
+            "LEFT_ARROW",
+            "H",
+            "RIGHT_ARROW",
+            "UP_ARROW",
+            "K",
+            "DOWN_ARROW"
+        ]
+    },
+    "MS WORD": {
+        "buttons": [
+            "CONTROL A",
+            "CONTROL C",
+            "CONTROL V",
+            "CONTROL B",
+            "CONTROL I",
+            "CONTROL S",
+            "CONTROL X",
+            "CONTROL U",
+            "CONTROL LEFT_BRACKET",
+            "CONTROL LEFT_BRACKET",
+            "CONTROL Z",
+            "CONTROL Y",
+            "SHIFT UP_ARROW",
+            "SHIFT DOWN_ARROW",
+            "SHIFT LEFT_ARROW",
+            "SHIFT RIGHT_ARROW"
+        ],
+        "rotary": [
+            "LEFT_ARROW",
+            "B",
+            "RIGHT_ARROW",
+            "UP_ARROW",
+            "E",
+            "DOWN_ARROW",
+            "LEFT_ARROW",
+            "H",
+            "RIGHT_ARROW",
+            "UP_ARROW",
+            "K",
+            "DOWN_ARROW"
+        ]
+    },
+
+    "PLAYBACK":{
+        "buttons": [
+            "BRIGHTNESS_DECREMENT",
+            "BRIGHTNESS_INCREMENT",
+            "MUTE",
+            "PLAY_PAUSE",
+            "STOP",
+            "VOLUME_DECREMENT",
+            "VOLUME_INCREMENT",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+
+        "rotary": [
+            "BRIGHTNESS_DECREMENT",
+            "NONE",
+            "BRIGHTNESS_INCREMENT",
+            "BRIGHTNESS_DECREMENT",
+            "NONE",
+            "BRIGHTNESS_INCREMENT",
+            "VOLUME_DECREMENT",
+            "NONE",
+            "VOLUME_INCREMENT",
+            "VOLUME_DECREMENT",
+            "NONE",
+            "VOLUME_INCREMENT"
+        ]
+    }
+}
